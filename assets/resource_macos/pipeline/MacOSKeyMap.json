@@ -274,30 +274,6 @@
             }
         }
     },
-    "_AutoEcoFarmEnterCameraModeFailKeyUp": {
-        "action": {
-            "type": "KeyUp",
-            "param": {
-                "key": 15
-            }
-        }
-    },
-    "_AutoEcoFarmEnterCameraModeKeyDownR": {
-        "action": {
-            "type": "KeyDown",
-            "param": {
-                "key": 15
-            }
-        }
-    },
-    "_AutoEcoFarmEnterCameraModeKeyUpR": {
-        "action": {
-            "type": "KeyUp",
-            "param": {
-                "key": 15
-            }
-        }
-    },
     "_AutoEcoFarmExitTargetManager": {
         "action": {
             "type": "ClickKey",
